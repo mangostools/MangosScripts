@@ -4,8 +4,8 @@ This script will scrape through the WoW-Tools pages to collect the table header 
 # 🖥️ How To Use
 * Python is required.
 ```bash
-git clone https://github.com/i-am-fyre/MaNGOS-Scripts/
-cd ./MaNGOS-Scripts/WoW-Tools_DBC_Table_Headers/
+git clone https://github.com/mangostools/MangosScripts
+cd ./MangosScripts/WoW-Tools_DBC_Table_Headers/
 ```
 ```bash
 python -m pip install -r ./requirements.txt
